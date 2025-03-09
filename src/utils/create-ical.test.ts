@@ -9,9 +9,7 @@ describe("Create ICAL", () => {
 
       const date = createDate(dateString, timeString)
 
-      const luxonDate = DateTime.fromJSDate(date)
-
-      expect(luxonDate.toFormat("yyyy-MM-dd HH:mm:ss")).toBe("2019-03-01 19:23:00")
+      expect(date.toFormat("yyyy-MM-dd HH:mm:ss")).toBe("2019-03-01 18:23:00") // notice difference due to timezones
     })
   })
 })
