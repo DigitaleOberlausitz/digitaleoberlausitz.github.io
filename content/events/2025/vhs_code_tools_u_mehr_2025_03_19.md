@@ -1,9 +1,9 @@
 ---
-title: "Code, Tools und mehr: So arbeitet ein Entwickler"
+title: "VHS: Code, Tools und mehr: So arbeitet ein Entwickler"
 date: "2025-03-19"
 location: "Volkshochschule Görlitz, Langenstraße 23, 02826 Görlitz, Raum 15"
 startTime: "17:30"
-icon: "logo_transparent.png"
+icon: "logo_vhs_goerlitz.png"
 show_as_news: true
 ---
 
@@ -13,5 +13,7 @@ Der Kurs richtet sich an Interessierte, die verstehen möchten, wie der Alltag e
 **Über den Dozenten**
 
 Marco Gotthans arbeitet als Tester bei der ZEISS Digital Innovation in Görlitz. Mit automatisierten Testscripten stellt er Softwarequalität sicher. In der Industrie 4.0 beschäftigt er sich mit den vielen neuen Herausforderungen der Qualitätssicherung, die sich aus der Verbindung von komplexen Maschinensteuerungen mit Cloudsystemen ergeben.
+
+Die Veranstaltung findet in Kooperation mit der VHS Görlitz statt.
 
 **Anmeldung**: [Hier auf der VHS-Seite](https://www.vhs-goerlitz.de/programm/spezial-3.html?action%5B9%5D=course&courseId=595-C-25F51207&rowIndex=0)
