@@ -31,14 +31,12 @@ export const createIcal = async ({
   icalTargetPath,
   icalUrl,
   icalName,
-  icalTimezone = "Europe/Berlin",
 }: {
   graphql: any
   icalFrontmatterName: string
   icalTargetPath: string
   icalUrl: string
   icalName: string
-  icalTimezone?: string
 }) => {
   return graphql(`{
   events: allMarkdownRemark(
@@ -70,7 +68,6 @@ export const createIcal = async ({
     const cal = ical({
       url: icalUrl,
       name: icalName,
-      timezone: icalTimezone,
     })
 
     events.forEach((event) => {
@@ -107,7 +104,13 @@ function writeIcalFile(content: string, icalTargetPath: string): Promise<void> {
   return fs.promises.writeFile(icalTargetPath, content)
 }
 
-export const createDate = (date: FrontmatterDate, time: FrontmatterTime): Date => {
+export const createDate = (date: FrontmatterDate, time: FrontmatterTime): DateTime => {
   const iso = `${date}T${time}`
-  return DateTime.fromISO(iso).toJSDate()
+  return (
+    DateTime.fromISO(iso)
+      // make sure that the time is defined in german time
+      .setZone("Europe/Berlin", { keepLocalTime: true })
+      // then transform to UTC to be compliant with ical standard
+      .toUTC()
+  )
 }

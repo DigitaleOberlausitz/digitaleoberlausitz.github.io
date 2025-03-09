@@ -14,7 +14,6 @@ Manuel Mauky<br />
 Demianiplatz 34<br />
 02826 Görlitz<br />
 Deutschland<br />
-Tel.: +49 (0) 1525 6322383<br />
 E-Mail: vorstand@digitale-oberlausitz.eu<br />
 Website: www.digitale-oberlausitz.eu<br />
 </p>

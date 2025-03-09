@@ -22,8 +22,6 @@ Schatzmeisterin
 
 # Kontakt:
 
-Tel.: <obfuscate tel="+49 (0) 1525 6322383"/>
-
 E-Mail: <obfuscate email="vorstand@digitale-oberlausitz.eu"/>
 
 Website: [https://digitale-oberlausitz.eu](https://digitale-oberlausitz.eu)
