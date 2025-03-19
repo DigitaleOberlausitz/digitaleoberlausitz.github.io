@@ -30,4 +30,5 @@ Weitere Informationen dazu und den zugehörigen Mitgliedsantrag finden Sie hier:
 - CASUS - Center for Advanced Systems Understanding am Helmholtz-Zentrum Dresden - Rossendorf e.V.
 - Drantos
 - InterNexum GmbH
+- IT-Beratung Haupt
 - SednaSoft
