@@ -17,3 +17,5 @@ Diese Veranstaltung kann mit der vhsCard besucht werden.
 Die Veranstaltung findet in Kooperation mit der VHS Görlitz statt.
 
 **Anmeldung**: [Hier auf der VHS-Seite](https://www.vhs-goerlitz.de/programm/spezial-3.html?action%5B9%5D=course&courseId=595-C-25F51107&rowIndex=0)
+
+[Vortragsfolien zum Download](/slides/2025-04-09-vhs-cookies.pdf)
