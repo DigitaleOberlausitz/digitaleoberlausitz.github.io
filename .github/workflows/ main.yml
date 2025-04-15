@@ -25,8 +25,22 @@ jobs:
           yarn
           yarn run test
           yarn run build
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.4
-        with:
-          branch: gh-pages
-          folder: public
+      - name: "Setup SSH key"
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$SSH_PRIVATE_KEY" > ../private.key
+          sudo chmod 600 ../private.key
+          echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
+        shell: bash
+        env:
+          SSH_PRIVATE_KEY: ${{secrets.WEBSITE_SSH_PRIVATE_KEY}}
+          SSH_KNOWN_HOSTS: ${{secrets.WEBSITE_SSH_KNOWN_HOSTS}}
+          SSH_KEY_PATH: ${{github.workspace}}/../private.key
+      - name: "Deploy to Hetzner"
+        run: |
+          rsync -avz --no-p -e "ssh -i $SSH_KEY_PATH" ./public/ github_deployment@188.245.229.184:/srv/webserver/www/verein-website/
+#      - name: "Deploy to github pages"
+#        uses: JamesIves/github-pages-deploy-action@4.1.4
+#        with:
+#          branch: gh-pages
+#          folder: public
