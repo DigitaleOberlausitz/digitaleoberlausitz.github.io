@@ -28,17 +28,18 @@ jobs:
       - name: "Setup SSH key"
         run: |
           mkdir -p ~/.ssh/
-          echo "$SSH_PRIVATE_KEY" > ../private.key
-          sudo chmod 600 ../private.key
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          sudo chmod 600 ~/.ssh/id_rsa
           echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
         shell: bash
         env:
-          SSH_PRIVATE_KEY: ${{secrets.WEBSITE_SSH_PRIVATE_KEY}}
-          SSH_KNOWN_HOSTS: ${{secrets.WEBSITE_SSH_KNOWN_HOSTS}}
-          SSH_KEY_PATH: ${{github.workspace}}/../private.key
+          SSH_PRIVATE_KEY: ${{secrets.WEBSERVER_SSH_PRIVATE_KEY}}
+          SSH_KNOWN_HOSTS: ${{secrets.WEBSERVER_SSH_KNOWN_HOSTS}}
       - name: "Deploy to Hetzner"
         run: |
-          rsync -avz --no-p -e "ssh -i $SSH_KEY_PATH" ./public/ github_deployment@188.245.229.184:/srv/webserver/www/verein-website/
+          rsync -avz --no-p ./public/ $SSH_CONNECTION:/srv/webserver/www/verein-website/
+        env:
+          SSH_CONNECTION: ${{secrets.WEBSERVER_SSH_CONNECTION}}
 #      - name: "Deploy to github pages"
 #        uses: JamesIves/github-pages-deploy-action@4.1.4
 #        with:
