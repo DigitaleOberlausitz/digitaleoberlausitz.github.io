@@ -37,7 +37,7 @@ jobs:
           SSH_KNOWN_HOSTS: ${{secrets.WEBSERVER_SSH_KNOWN_HOSTS}}
       - name: "Deploy to Hetzner"
         run: |
-          rsync -avz --no-p ./public/ $SSH_CONNECTION:/srv/webserver/www/verein-website/
+          rsync -avz --no-p --no-times ./public/ $SSH_CONNECTION:/srv/webserver/www/verein-website/
         env:
           SSH_CONNECTION: ${{secrets.WEBSERVER_SSH_CONNECTION}}
 #      - name: "Deploy to github pages"
