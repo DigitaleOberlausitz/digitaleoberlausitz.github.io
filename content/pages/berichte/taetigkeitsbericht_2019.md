@@ -1,4 +1,4 @@
-# Tätigkeitsbericht 2018 Digitale Oberlausitz e. V.
+# Tätigkeitsbericht 2019 Digitale Oberlausitz e. V.
 
 ## 1. Vereinszweck und Zweckverwirklichung
 
