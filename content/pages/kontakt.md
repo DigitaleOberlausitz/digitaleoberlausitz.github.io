@@ -12,7 +12,6 @@ Wie du mit uns in Kontakt treten kannst? Hier erfährst du es!
 
 ## Soziale Medien
 
-- [Twitter: @DigitaleOL](https://twitter.com/DigitaleOL)
 - [Facebook](https://www.facebook.com/DigitaleOL)
 - [LinkedIn](https://www.linkedin.com/company/digitale-oberlausitz-e-v)
 - [Bluesky: @digitaleOL.bsky.social](https://bsky.app/profile/digitaleol.bsky.social)
