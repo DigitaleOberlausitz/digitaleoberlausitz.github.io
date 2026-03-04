@@ -98,3 +98,4 @@ Dies setzen wir konkret wie folgt um:
 * [2022](/berichte/taetigkeitsbericht_2022)
 * [2023](/berichte/taetigkeitsbericht_2023)
 * [2024](/berichte/taetigkeitsbericht_2024)
+* [2025](/berichte/taetigkeitsbericht_2025)
