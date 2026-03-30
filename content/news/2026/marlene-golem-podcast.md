@@ -17,5 +17,5 @@ diesen [Link](https://besserwissen.podigee.io/185-goerlitz)
 
 Marlene ist Gründungsmitglied im Verein und macht alle unsere Grafiken.
 Insbesondere die [tollen JUG-Plakate](https://www.jug-gr.de/posters/) stammen aus ihrer Feder.
-Und sie hält den [Chaostreff](https://www.golem.de/news/podcast-besser-wissen-die-digitale-oberlausitz-2603-206719.html)
+Und sie hält den [Chaostreff](/projekte/chaostreff/)
 am Laufen.
