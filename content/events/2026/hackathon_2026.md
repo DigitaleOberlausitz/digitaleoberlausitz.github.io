@@ -3,6 +3,7 @@ title: "Hackathon 2026"
 date: "2026-05-30"
 location: "GoBe Görlitz, Peterstraße 13, 02826 Görlitz"
 icon: "logo_transparent.png"
+show_as_news: true
 ---
 
 # Save the Date – 30. und 31. Mai  2026
