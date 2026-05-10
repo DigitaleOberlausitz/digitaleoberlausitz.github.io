@@ -20,7 +20,7 @@
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",
     "anchorate": "^1.2.4",
-    "bootstrap": "^5.3.3",
+    "bootstrap": "^5.3.8",
     "email-obfuscate": "^0.0.6",
     "gatsby": "^5.13.5",
     "gatsby-link": "^5.13.1",
@@ -43,9 +43,9 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-helmet": "^6.1.0",
-    "react-obfuscate": "^3.6.9",
+    "react-obfuscate": "^3.7.0",
     "react-typography": "^0.16.23",
-    "reactstrap": "^9.2.2",
+    "reactstrap": "^9.2.3",
     "rehype-react": "^8.0.0",
     "sharp": "^0.33.4",
     "typography": "^0.16.24",
@@ -61,7 +61,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^30.4.2",
     "prettier": "^3.8.3",
-    "react-test-renderer": "^18.3.1",
+    "react-test-renderer": "^19.2.6",
     "ts-jest": "^29.4.9",
     "typescript": "^5.4.5"
   }

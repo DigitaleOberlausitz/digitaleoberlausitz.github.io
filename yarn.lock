@@ -6303,12 +6303,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bootstrap@npm:^5.3.3":
-  version: 5.3.3
-  resolution: "bootstrap@npm:5.3.3"
+"bootstrap@npm:^5.3.8":
+  version: 5.3.8
+  resolution: "bootstrap@npm:5.3.8"
   peerDependencies:
     "@popperjs/core": ^2.11.8
-  checksum: 537b68db30150075614310e9ebdf1be9b4affdf89ca226d59f4352e82a368b203af13ed0ce5ccfa4e06f141ecd233f7432ca3817e9c1a39863a05fbe13c73c4b
+  checksum: 6813254a1140646ca53f33f2d0c5fbf7cf544dabba06cddc061243acf4ec71fadff348860ed4623e1b486c05c151d7807da017dc473e748add0926d2cf9f1a04
   languageName: node
   linkType: hard
 
@@ -8001,7 +8001,7 @@ __metadata:
     anchorate: ^1.2.4
     babel-jest: ^30.4.1
     babel-preset-gatsby: ^3.13.2
-    bootstrap: ^5.3.3
+    bootstrap: ^5.3.8
     email-obfuscate: ^0.0.6
     gatsby: ^5.13.5
     gatsby-link: ^5.13.1
@@ -8027,10 +8027,10 @@ __metadata:
     react: ^18.3.1
     react-dom: ^18.3.1
     react-helmet: ^6.1.0
-    react-obfuscate: ^3.6.9
-    react-test-renderer: ^18.3.1
+    react-obfuscate: ^3.7.0
+    react-test-renderer: ^19.2.6
     react-typography: ^0.16.23
-    reactstrap: ^9.2.2
+    reactstrap: ^9.2.3
     rehype-react: ^8.0.0
     sharp: ^0.33.4
     ts-jest: ^29.4.9
@@ -16306,24 +16306,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-is-18@npm:react-is@^18.3.1, react-is@npm:^18.3.1":
+"react-is-18@npm:react-is@^18.3.1":
   version: 18.3.1
   resolution: "react-is@npm:18.3.1"
   checksum: e20fe84c86ff172fc8d898251b7cc2c43645d108bf96d0b8edf39b98f9a2cae97b40520ee7ed8ee0085ccc94736c4886294456033304151c3f94978cec03df21
   languageName: node
   linkType: hard
 
-"react-is-19@npm:react-is@^19.2.5":
+"react-is-19@npm:react-is@^19.2.5, react-is@npm:^19.2.6":
   version: 19.2.6
   resolution: "react-is@npm:19.2.6"
   checksum: aad99621b2e5c47ea715ab719a3caae60b6d2be828374dc5ad663372f4603ab26bde5f0c9f3efd6107ed9152dfff5f8f3df044121967a3280e00796e4c560635
-  languageName: node
-  linkType: hard
-
-"react-is@npm:^16.12.0 || ^17.0.0 || ^18.0.0":
-  version: 18.2.0
-  resolution: "react-is@npm:18.2.0"
-  checksum: e72d0ba81b5922759e4aff17e0252bd29988f9642ed817f56b25a3e217e13eea8a7f2322af99a06edb779da12d5d636e9fda473d620df9a3da0df2a74141d53e
   languageName: node
   linkType: hard
 
@@ -16334,14 +16327,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-obfuscate@npm:^3.6.9":
-  version: 3.6.9
-  resolution: "react-obfuscate@npm:3.6.9"
+"react-obfuscate@npm:^3.7.0":
+  version: 3.7.0
+  resolution: "react-obfuscate@npm:3.7.0"
   peerDependencies:
     prop-types: ">= 15"
     react: ">= 16.8"
     react-dom: ">= 16.8"
-  checksum: 32ba184550b9ecb79dead373b7217ba4d719e633a08789a9ff5e5ab440d81bae94be8813535534e5fa1a5bac25883204062c8d6ecc0c4df67d38c4c05cdda488
+  checksum: bb4e5b3f73a3d907c73a9f7babb06f5b2d4b5c4b97134eee0c884f1e71d658387bc91cf861fc405589b2e7a6795d1b6c3c302636214ce8268cad6cfcec87d617
   languageName: node
   linkType: hard
 
@@ -16380,18 +16373,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-shallow-renderer@npm:^16.15.0":
-  version: 16.15.0
-  resolution: "react-shallow-renderer@npm:16.15.0"
-  dependencies:
-    object-assign: ^4.1.1
-    react-is: ^16.12.0 || ^17.0.0 || ^18.0.0
-  peerDependencies:
-    react: ^16.0.0 || ^17.0.0 || ^18.0.0
-  checksum: 6052c7e3e9627485120ebd8257f128aad8f56386fe8d42374b7743eac1be457c33506d153c7886b4e32923c0c352d402ab805ef9ca02dbcd8393b2bdeb6e5af8
-  languageName: node
-  linkType: hard
-
 "react-side-effect@npm:^2.1.0":
   version: 2.1.2
   resolution: "react-side-effect@npm:2.1.2"
@@ -16401,16 +16382,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-test-renderer@npm:^18.3.1":
-  version: 18.3.1
-  resolution: "react-test-renderer@npm:18.3.1"
+"react-test-renderer@npm:^19.2.6":
+  version: 19.2.6
+  resolution: "react-test-renderer@npm:19.2.6"
   dependencies:
-    react-is: ^18.3.1
-    react-shallow-renderer: ^16.15.0
-    scheduler: ^0.23.2
+    react-is: ^19.2.6
+    scheduler: ^0.27.0
   peerDependencies:
-    react: ^18.3.1
-  checksum: e8e58e738835fab3801afb63f6bfe0fcf6e68ea39619fae5bdf47feefc36b1e4acb48c9dd139c7533611466eff1dfce6ffdda4b317e06aee663dda7d91438f26
+    react: ^19.2.6
+  checksum: 35bb4f1abf83e83bebf1949cfb72702436dad216d747b0e478784a85e30d4ee8b8f8da0b8c1177e10c80db808818247bf7aefb507bd7f0bff4902b18ef5ab26f
   languageName: node
   linkType: hard
 
@@ -16447,9 +16427,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"reactstrap@npm:^9.2.2":
-  version: 9.2.2
-  resolution: "reactstrap@npm:9.2.2"
+"reactstrap@npm:^9.2.3":
+  version: 9.2.3
+  resolution: "reactstrap@npm:9.2.3"
   dependencies:
     "@babel/runtime": ^7.12.5
     "@popperjs/core": ^2.6.0
@@ -16460,7 +16440,7 @@ __metadata:
   peerDependencies:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 1d859f562e24f65720813dfbc0198e6921ce55344106e6f5b7518efe2b31cd7ad4fdaf29820b1ff0fd9dd70ecfa98bb5911b81770ba0e192d0e1deb9fdeb92d2
+  checksum: cd060827f7be4589133c68b5128632b11245071725c34d8ee897bca732da2f3584cd470ac706ac6a7394f5f5e1909a816be61c64e9845329d723d39ef243b6ab
   languageName: node
   linkType: hard
 
@@ -17123,6 +17103,13 @@ __metadata:
   dependencies:
     loose-envify: ^1.1.0
   checksum: 3e82d1f419e240ef6219d794ff29c7ee415fbdc19e038f680a10c067108e06284f1847450a210b29bbaf97b9d8a97ced5f624c31c681248ac84c80d56ad5a2c4
+  languageName: node
+  linkType: hard
+
+"scheduler@npm:^0.27.0":
+  version: 0.27.0
+  resolution: "scheduler@npm:0.27.0"
+  checksum: 92644ead0a9443e20f9d24132fe93675b156209b9eeb35ea245f8a86768d0cc0fcca56f341eeef21d9b6dd8e72d6d5e260eb5a41d34b05cd605dd45a29f572ef
   languageName: node
   linkType: hard
 
