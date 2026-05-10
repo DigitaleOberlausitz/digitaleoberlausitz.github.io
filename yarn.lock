@@ -2226,43 +2226,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fortawesome/fontawesome-common-types@npm:6.5.2":
-  version: 6.5.2
-  resolution: "@fortawesome/fontawesome-common-types@npm:6.5.2"
-  checksum: 8164f3e16683db5125634a4fbf3db83a5a7366bb830111ffe8538e1b8f98f8fe6dc35609cf2c595a7d6840e27d3fb45b57faf7340e40e98f0d76207fe8f94e79
-  languageName: node
-  linkType: hard
-
-"@fortawesome/fontawesome-svg-core@npm:^6.5.2":
-  version: 6.5.2
-  resolution: "@fortawesome/fontawesome-svg-core@npm:6.5.2"
-  dependencies:
-    "@fortawesome/fontawesome-common-types": 6.5.2
-  checksum: f0c2a0800074c5bbc143631b9f3f818b94bd14b8590153058eecc9f548ae0ac78cfca61196880f9b3b79b5d5b5afdb140d05da75542da2087701614c9c043905
-  languageName: node
-  linkType: hard
-
-"@fortawesome/free-solid-svg-icons@npm:^6.5.2":
-  version: 6.5.2
-  resolution: "@fortawesome/free-solid-svg-icons@npm:6.5.2"
-  dependencies:
-    "@fortawesome/fontawesome-common-types": 6.5.2
-  checksum: f23964434ccbab5114c05bcdabb79d8e801b5be534618db7947d40d4841a3e52177e6145ae5fe59c941d864f70ffcffd0f1e4f0983dfd0048a1f5f3430a00c8c
-  languageName: node
-  linkType: hard
-
-"@fortawesome/react-fontawesome@npm:^0.2.1":
-  version: 0.2.1
-  resolution: "@fortawesome/react-fontawesome@npm:0.2.1"
-  dependencies:
-    prop-types: ^15.8.1
-  peerDependencies:
-    "@fortawesome/fontawesome-svg-core": ~1 || ~6
-    react: ">=16.3"
-  checksum: ae499e95fd8a774d90b7e935d9a0621cce22186d05323186529bf8a140faa65b5ee512abc5e03dcc34e73925ec4a3f2208178ff35abbf7206948c2c49a7520fe
-  languageName: node
-  linkType: hard
-
 "@gar/promisify@npm:^1.1.3":
   version: 1.1.3
   resolution: "@gar/promisify@npm:1.1.3"
@@ -3800,6 +3763,16 @@ __metadata:
   peerDependencies:
     "@parcel/core": ^2.8.3
   checksum: e3168b3e9ee6bd8e92472e11af9228aca689c5d31841410c908ab31f2a11adf939481d9f4d945ae44d7d3ec1e07980fb3ca5c2f87be82e31a02a94f4655c8e01
+  languageName: node
+  linkType: hard
+
+"@phosphor-icons/react@npm:^2.1.10":
+  version: 2.1.10
+  resolution: "@phosphor-icons/react@npm:2.1.10"
+  peerDependencies:
+    react: ">= 16.8"
+    react-dom: ">= 16.8"
+  checksum: ed74ce87ec2b7dd6be54d6820671d4027888e784c1b2d2d90cfcc304501a562461502f014b770fc5524d207737af50402fe7dda7827922137d4d08cf7cfa9fb1
   languageName: node
   linkType: hard
 
@@ -6109,9 +6082,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001359, caniuse-lite@npm:^1.0.30001538, caniuse-lite@npm:^1.0.30001541":
-  version: 1.0.30001620
-  resolution: "caniuse-lite@npm:1.0.30001620"
-  checksum: 1831e519c29ce6971bc50d56bab196a307fcb4181e7deaa80df314b035b87b3912b8626b4e87adc301d0bfe6a90b99814101b1cb28114b96e720f996f19bdc0d
+  version: 1.0.30001792
+  resolution: "caniuse-lite@npm:1.0.30001792"
+  checksum: 25e2ba0feb792fbc99e98b236653dccec6387bf9351510b5401ffcb0c25193e47a2ba37e5ce44f92e0fb023670fe077b938ab8e1bad53bc03e95673e5bd5d439
   languageName: node
   linkType: hard
 
@@ -7529,9 +7502,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "digitale-oberlausitz-ev@workspace:."
   dependencies:
-    "@fortawesome/fontawesome-svg-core": ^6.5.2
-    "@fortawesome/free-solid-svg-icons": ^6.5.2
-    "@fortawesome/react-fontawesome": ^0.2.1
+    "@phosphor-icons/react": ^2.1.10
     "@types/jest": ^29.5.12
     "@types/luxon": ^3.4.2
     "@types/mdast": ^4.0.4

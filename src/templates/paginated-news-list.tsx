@@ -3,8 +3,7 @@ import { Link, PageProps } from "gatsby"
 import { Pagination, PaginationItem, PaginationLink } from "reactstrap"
 import Layout from "../components/layout"
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faChevronRight, faChevronLeft } from "@fortawesome/free-solid-svg-icons"
+import { CaretLeftIcon, CaretRightIcon} from "@phosphor-icons/react"
 
 import * as R from "ramda"
 
@@ -104,7 +103,7 @@ const generatePaginationItems = ({ pageCount, index }) => {
   return [
     <PaginationItem key="prev" disabled={first}>
       <PaginationLink aria-label="navigate to previous page" tag={tagFunction} to={previousUrl}>
-        <FontAwesomeIcon icon={faChevronLeft} />
+        <CaretLeftIcon weight="bold" />
       </PaginationLink>
     </PaginationItem>,
 
@@ -112,7 +111,7 @@ const generatePaginationItems = ({ pageCount, index }) => {
 
     <PaginationItem key="next" disabled={last}>
       <PaginationLink aria-label="navigate to next page" tag={tagFunction} to={nextUrl}>
-        <FontAwesomeIcon icon={faChevronRight} />
+        <CaretRightIcon weight="bold"/>
       </PaginationLink>
     </PaginationItem>,
   ]

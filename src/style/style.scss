@@ -35,3 +35,11 @@ p + h2,
 p + h3 {
   margin-top: 2rem;
 }
+
+
+/*
+Fix height of icons when used in pagination so that visually icons are on the same height as text.
+ */
+.pagination .page-item svg {
+  vertical-align: -0.125em;
+}
