@@ -3,7 +3,7 @@ import React from "react"
 import { useMousePosition } from "../../utils/use-mouse-position"
 import { useEffect, forwardRef, ForwardedRef, useRef } from "react"
 
-import "./interactive-logo.scss"
+import "./interactive-logo.css"
 
 // distance in px. only distances lower than this are taken into account for scaling
 const DISTANCE_THRESHOLD = 70
