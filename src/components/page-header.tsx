@@ -1,7 +1,7 @@
 import React, { FC, useState } from "react"
 import { Link } from "gatsby-link"
 
-import "../style/header.scss"
+import "../style/header.css"
 
 import { Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink, Collapse } from "reactstrap"
 
