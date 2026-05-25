@@ -13,7 +13,7 @@ Wir organisieren regelmäßig verschiedene [Veranstaltungen](/events), zu denen 
 Wir freuen uns über alle, die uns besuchen, unsere Angebote wahrnehmen und damit auch zeigen, dass ein breites Interesse und Nachfrage nach derartigen 
 Veranstaltungen existiert. 
 
-Insbesondere finden monatlich 2 offene Plenen im [Vereinsheim](https://www.openstreetmap.org/?mlat=51.14581&mlon=14.97133#map=19/51.14581/14.97133) statt, zu dem alle Leute mit Fragen, Ideen oder Gesprächbedarf gern gesehen sind. Wir freuen uns natürlich auch über Feedback, Lob und Kritik, die uns dabei helfen, unsere Tätigkeiten weiter zu verbessern.
+Insbesondere finden monatlich 2 offene Plenen im [Vereinsheim](https://www.openstreetmap.org/?mlat=51.14581&mlon=14.97133#map=19/51.14581/14.97133) statt, zu dem alle Leute mit Fragen, Ideen oder Gesprächsbedarf gern gesehen sind. Wir freuen uns natürlich auch über Feedback, Lob und Kritik, die uns dabei helfen, unsere Tätigkeiten weiter zu verbessern.
 
 An folgende Terminen finden 2026 Plenen statt:
 
@@ -30,7 +30,9 @@ An folgende Terminen finden 2026 Plenen statt:
 * November:  03.11. | 18.11.
 * Dezember:  01.12. | 16.12.
 
-Sie können zu diesen Terminen jederzeit unangemeldet vorbei kommen. Eine Anmeldung vorab per Mail an info@digitale-oberlausitz.eu wäre jedoch zu empfehlen, da es selten auch mal vorkommt, dass Plenen ausfallen. Wir möchten dich also nicht vor verschlossenen Türen stehen lassen.
+Uhrzeit: 19 Uhr
+
+Du kannst zu diesen Terminen (19 Uhr) unangemeldet vorbei kommen. Eine Anmeldung vorab per Mail an info@digitale-oberlausitz.eu ist jedoch zu empfehlen, da es selten auch mal vorkommt, dass Plenen ausfallen. Wir möchten dich also nicht vor verschlossenen Türen stehen lassen.
 
 ## Werde Mitglied
 
