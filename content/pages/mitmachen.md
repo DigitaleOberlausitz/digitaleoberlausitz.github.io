@@ -43,9 +43,9 @@ Gute Vereinsarbeit lebt auch von Diversität.
 Daher sind alle willkommen, die sich mit unseren [Vereinszielen](/satzung#2), der [Präambel](/satzung#präamble) unseres Vereins sowie der [Satzung im Allgemeinen](/satzung) identifizieren können.
 
 ### Links
-* [Formular: Antrag auf Mitgliedschaft als reguläres Mitglied](https://cloud.digitale-oberlausitz.eu/index.php/s/gALgbEUmIlkZFnf)
-* [Formular: Datenschutz Einwilligung + Widerrufserklärung](https://cloud.digitale-oberlausitz.eu/index.php/s/jwXXpHFq0K51Qvg)
-* [Formular: SEPA-Lastschrift Mandat](https://cloud.digitale-oberlausitz.eu/index.php/s/fLil1g6EUbsfxcj)
+* [Formular: Antrag auf Mitgliedschaft als reguläres Mitglied](/forms/Mitgliedsformular.pdf)
+* [Formular: Datenschutz Einwilligung + Widerrufserklärung](/forms/Einwilligungserklärung.pdf)
+* [Formular: SEPA-Lastschrift Mandat](/forms/sepa-lastschrift-mandat.pdf)
 
 
 

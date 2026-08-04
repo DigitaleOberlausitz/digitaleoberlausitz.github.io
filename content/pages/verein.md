@@ -85,9 +85,9 @@ Dies setzen wir konkret wie folgt um:
 * [Satzung](/satzung)
 * [Beitragsordnung](/beitragsordnung)
 * [Kontakt & Spenden](/kontakt)
-* [Formular: Antrag auf Mitgliedschaft als reguläres Mitglied](https://cloud.digitale-oberlausitz.eu/index.php/s/gALgbEUmIlkZFnf)
-* [Formular: Datenschutz Einwilligung + Widerrufserklärung](https://cloud.digitale-oberlausitz.eu/index.php/s/jwXXpHFq0K51Qvg)
-* [Formular: SEPA-Lastschrift Mandat](https://cloud.digitale-oberlausitz.eu/index.php/s/fLil1g6EUbsfxcj)
+* [Formular: Antrag auf Mitgliedschaft als reguläres Mitglied](/forms/Mitgliedsformular.pdf)
+* [Formular: Datenschutz Einwilligung + Widerrufserklärung](/forms/Einwilligungserklärung.pdf)
+* [Formular: SEPA-Lastschrift Mandat](/forms/sepa-lastschrift-mandat.pdf)
 
 ## Tätigkeitsberichte
 
