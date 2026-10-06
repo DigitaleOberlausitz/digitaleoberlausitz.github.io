@@ -22,7 +22,7 @@ digitalen Oberlausitz bei.
 Weitere Informationen dazu und den zugehörigen Mitgliedsantrag finden Sie hier:
 
 * [Satzung, Abschnitt über Fördermitglieder](https://digitale-oberlausitz.eu/satzung#3)
-* [Antrag für Fördermitglieder](https://cloud.digitale-oberlausitz.eu/index.php/s/patuBuMGHVv30Jl)
+* [Antrag für Fördermitglieder](/forms/Mitgliedsformular-Foerdermitglied.pdf)
 
 # Unsere Fördermitglieder
 
