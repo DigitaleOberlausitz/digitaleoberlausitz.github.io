@@ -44,7 +44,7 @@ Daher sind alle willkommen, die sich mit unseren [Vereinszielen](/satzung#2), de
 
 ### Links
 * [Formular: Antrag auf Mitgliedschaft als reguläres Mitglied](/forms/Mitgliedsformular.pdf)
-* [Formular: Datenschutz Einwilligung + Widerrufserklärung](/forms/Einwilligungserklärung.pdf)
+* [Formular: Datenschutz Einwilligung + Widerrufserklärung](/forms/Einwilligungserklaerung.pdf)
 * [Formular: SEPA-Lastschrift Mandat](/forms/sepa-lastschrift-mandat.pdf)
 
 
