@@ -19,8 +19,11 @@ Ausscheiden aus dem Verein erfolgt keine Rückerstattung bereits geleisteter Bei
 
 Die Höhe des Mitgliederbeitrags ist
 
-* für stimmberechtigte Mitglieder auf **16,00 €** pro Kalenderjahr und
-* für Fördermitglieder auf **256,00 €** pro Kalenderjahr
+* für stimmberechtigte Mitglieder auf **32,00 €** pro Kalenderjahr und
+* für Fördermitglieder gestaffelt nach Anzahl der Mitarbeitenden:
+  * 1 bis 9 Mitarbeitende = **256 €**
+  * 10 bis 99 Mitarbeitende = **512 €**
+  * ab 100 Mitarbeitende = **1024 €**
 
 festgesetzt. Über die festgesetzte Summe hinausgehende Zahlungen werden als Spende verstanden.
 
