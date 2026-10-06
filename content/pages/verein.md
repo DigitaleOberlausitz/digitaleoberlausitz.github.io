@@ -86,7 +86,7 @@ Dies setzen wir konkret wie folgt um:
 * [Beitragsordnung](/beitragsordnung)
 * [Kontakt & Spenden](/kontakt)
 * [Formular: Antrag auf Mitgliedschaft als reguläres Mitglied](/forms/Mitgliedsformular.pdf)
-* [Formular: Datenschutz Einwilligung + Widerrufserklärung](/forms/Einwilligungserklärung.pdf)
+* [Formular: Datenschutz Einwilligung + Widerrufserklärung](/forms/Einwilligungserklaerung.pdf)
 * [Formular: SEPA-Lastschrift Mandat](/forms/sepa-lastschrift-mandat.pdf)
 
 ## Tätigkeitsberichte
