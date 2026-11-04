@@ -30,6 +30,7 @@
     "gatsby-plugin-sharp": "^5.16.0",
     "gatsby-plugin-typography": "^5.16.0",
     "gatsby-remark-autolink-headers": "^6.16.0",
+    "gatsby-remark-image-attributes": "^1.1.0",
     "gatsby-remark-images": "^7.16.0",
     "gatsby-source-atom": "^0.3.0",
     "gatsby-source-filesystem": "^5.16.0",

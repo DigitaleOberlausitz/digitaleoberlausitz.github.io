@@ -49,6 +49,9 @@ const config = {
             },
           },
           {
+            resolve: "gatsby-remark-image-attributes",
+          },
+          {
             resolve: "gatsby-remark-autolink-headers"
           }
         ],

@@ -6920,6 +6920,7 @@ __metadata:
     gatsby-plugin-sharp: ^5.16.0
     gatsby-plugin-typography: ^5.16.0
     gatsby-remark-autolink-headers: ^6.16.0
+    gatsby-remark-image-attributes: ^1.1.0
     gatsby-remark-images: ^7.16.0
     gatsby-source-atom: ^0.3.0
     gatsby-source-filesystem: ^5.16.0
@@ -8897,6 +8898,17 @@ __metadata:
     react: ^18.0.0 || ^19.0.0 || ^0.0.0
     react-dom: ^18.0.0 || ^19.0.0 || ^0.0.0
   checksum: fd6cdf4290de8cd458dd45b4c80fa48d21623b639251f56bfb285d7d4839d54134948178d3efb12829a4d18025dd97785899f59a6e4dabd30e75feb5168165b7
+  languageName: node
+  linkType: hard
+
+"gatsby-remark-image-attributes@npm:^1.1.0":
+  version: 1.1.0
+  resolution: "gatsby-remark-image-attributes@npm:1.1.0"
+  dependencies:
+    unist-util-visit: ^2.0.3
+  peerDependencies:
+    gatsby: ^2.24.50 || ^3.0.0 || ^4.0.0
+  checksum: 030e4b843a3f4b760d8bddb81eff76bbed88387d15c6f2631dd6496c869eff0ef97625f23622ee513af162e044cf281088797d9935a2df63f6c90532eb570ffa
   languageName: node
   linkType: hard
 
