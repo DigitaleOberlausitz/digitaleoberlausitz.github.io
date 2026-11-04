@@ -22,6 +22,8 @@ Für die besten Ergebnisse stehen (Geld)Preise sowie die Präsentation der eigen
 
 Die Fragestellungen (Challenges) werden erst an dem Wochenende selbst bekannt gegeben. Zur Orientierung möchten wir vorab aber schon die Themenbereiche vorstellen und hoffen, damit Euer Interesse wecken zu können!
 
+<!--more-->
+
 Challenge 1: slow food - triborder tourism In diesem Fallbeispiel fokussieren wir uns auf regionale Lebensmittel und „slow tourism“, Kochkunst und grenzübergreifendes Marketing. Diese Aufgabenstellung eignet sich besonders für kreative und innovative Köpfe und selbstverständlich für alle „Foodies“ (Lebensmittel-Liebhaber)
 
 Kooperationspartner: HSZG, ENO, ARR, Ein Korb voll Glück

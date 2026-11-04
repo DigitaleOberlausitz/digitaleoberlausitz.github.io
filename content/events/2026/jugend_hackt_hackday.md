@@ -15,9 +15,11 @@ Spannende Workshops, Raum für eigene Projekte und Unterstützung von Profis.
 
 https://jugendhackt.org/events/dresden/hackday-goerlitz-2026/
 
-![](../../images/2026-hackdays-goerlitz.png)
+![](../../images/2026-hackdays-goerlitz.png '#width=500px')
 
+<!--more-->
 
 Und falls ihr am 05.12. in Freiberg seid, könnt ihr dort ebenfalls beim Hackday mitmachen:
 https://jugendhackt.org/events/dresden/hackday-freiberg-2026/
-![](../../images/2026-hackdays-freiberg.png)
+
+![](../../images/2026-hackdays-freiberg.png '#width=500px')
