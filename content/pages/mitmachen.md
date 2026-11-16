@@ -43,6 +43,7 @@ Gute Vereinsarbeit lebt auch von Diversität.
 Daher sind alle willkommen, die sich mit unseren [Vereinszielen](/satzung#2), der [Präambel](/satzung#präamble) unseres Vereins sowie der [Satzung im Allgemeinen](/satzung) identifizieren können.
 
 ### Links
+* [Beitragsordnung](/beitragsordnung)
 * [Formular: Antrag auf Mitgliedschaft als reguläres Mitglied](/forms/Mitgliedsformular.pdf)
 * [Formular: Datenschutz Einwilligung + Widerrufserklärung](/forms/Einwilligungserklaerung.pdf)
 * [Formular: SEPA-Lastschrift Mandat](/forms/sepa-lastschrift-mandat.pdf)
